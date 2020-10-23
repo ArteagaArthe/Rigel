@@ -1,0 +1,5 @@
+A:\Revision para DL\ABO DEMON\mmd  buscar piezas\c sahrp\bin\Release\Copiar y mover.exe.config
+A:\Revision para DL\ABO DEMON\mmd  buscar piezas\c sahrp\obj\Release\c_sahrp.Form1.resources
+A:\Revision para DL\ABO DEMON\mmd  buscar piezas\c sahrp\obj\Release\Copiar_Mover.Properties.Resources.resources
+A:\Revision para DL\ABO DEMON\mmd  buscar piezas\c sahrp\obj\Release\Copiar y mover.csproj.GenerateResource.Cache
+A:\Revision para DL\ABO DEMON\mmd  buscar piezas\c sahrp\obj\Release\Copiar_Mover.Form2.resources

@@ -1,0 +1,221 @@
+﻿using System;
+using System.IO;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using Microsoft.VisualBasic.Devices; // Recuerden agregar la referencia "Microsoft.VisualBasic".
+
+namespace c_sahrp
+{
+    public partial class Form1 : Form
+    {
+        Computer mycomputer = new Computer(); // Así accederemos al "FileSystem".
+        string tipo = "carpeta"; // Para esta aplicación, para saber si copiar/mover un archivo a una carpeta.
+             Random rnd = new Random();
+        int r1, r2, r3;
+          string[] ubicacion;
+          string[] extraibles;
+          string R = ".rar";
+          string z = ".zip";
+          string zdef = ".7z";
+          string diago = "\\";
+          string carpeta;
+          string carpeta_dos;
+          StreamReader Leer = new StreamReader(@"local1.txt");
+
+         public string Filter { get; set; }
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+      
+        private void button1_Click(object sender, EventArgs e)
+        {
+            // El siguiente código servirá para que si hacemos un click en Ok con el selector de carpeta, el texto del TextBox1 sea la ruta seleccionada.
+            var resultado = fbd1.ShowDialog();
+        
+            if (resultado == DialogResult.OK) { carpeta = fbd1.SelectedPath; }
+            MessageBox.Show(carpeta);
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            // El siguiente código servirá para que el texto del textbox2 sea igual a la ruta seleccionada + desde el último índice de "\", para copiar el nombre de la carpeta.
+            var resultado = fbd1.ShowDialog();
+            if (resultado == DialogResult.OK) { carpeta_dos = fbd1.SelectedPath; }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            // El siguiente código servirá para que si hacemos un click en Ok con el selector de archivos, el texto del TextBox1 sea el archivo seleccionado.
+            var resultado = ofd1.ShowDialog();
+            if (resultado == DialogResult.OK) { textBox1.Text = ofd1.FileName; }
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            archivo(textBox5.Text);
+       
+        }
+        public void archivo(string nombre)
+        {
+             if (System.IO.File.Exists(carpeta + diago + nombre + R))
+            {
+
+                textBox1.Text = carpeta + diago + nombre + R;
+                textBox2.Text = carpeta_dos + diago + nombre + R;
+                mycomputer.FileSystem.CopyFile(textBox1.Text, textBox2.Text);
+                textBox1.Clear();
+                textBox2.Clear();
+
+            }
+
+            if (System.IO.File.Exists(carpeta + diago + nombre + z))
+            {
+                textBox1.Text = carpeta + diago + nombre + z;
+                textBox2.Text = carpeta_dos + diago + nombre + z;
+                mycomputer.FileSystem.CopyFile(textBox1.Text, textBox2.Text);
+                textBox1.Clear();
+                textBox2.Clear();
+
+            }
+            if (System.IO.File.Exists(carpeta + diago +nombre + zdef))
+            {
+                textBox1.Text = carpeta + diago + nombre + zdef;
+                textBox2.Text = carpeta_dos + diago + nombre + zdef;
+                mycomputer.FileSystem.CopyFile(textBox1.Text, textBox2.Text);
+                textBox1.Clear();
+                textBox2.Clear();
+            }
+        }// metoddo para mover los archivos rar a la carpeta deseada
+
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            //if (tipo == "carpeta") { mycomputer.FileSystem.MoveDirectory(textBox1.Text, textBox2.Text); } // Movemos la carpeta.
+            //if (tipo == "archivo") { mycomputer.FileSystem.MoveFile(textBox1.Text, textBox2.Text); } // Movemos el archivo.
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void select_folder_Click(object sender, EventArgs e)
+        {
+
+
+            openFileDialog1 = new OpenFileDialog();
+            if (openFileDialog1.ShowDialog() == DialogResult.OK)
+                ubicacion = Directory.GetFiles(Path.GetDirectoryName(openFileDialog1.FileName));  //Mete todas las direcciones de imagenes a un arreglo
+            MessageBox.Show(openFileDialog1.FileName);
+        }
+
+        private void Iniciar_random_Click(object sender, EventArgs e)
+        {
+            if (checkBox1.Checked == false && checkBox2.Checked == false)
+            {
+                opciones.Enabled = true;
+            }
+            if (checkBox1.Checked == true || checkBox2.Checked == true)
+            {
+                opciones.Enabled = false;
+
+                if (checkBox1.Checked == true)
+                {
+
+
+                    carpeta = "A:\\MEGAsync\\Documentos\\MODELOS MMD\\otros";
+                    ubicacion = Directory.GetFiles(Path.GetDirectoryName("A:\\MEGAsync\\Documentos\\MODELOS MMD\\otros\\IMAGENES DE LOS MODELS\\kiana.jpg"));  
+                }
+                if (checkBox2.Checked == true)
+                {
+                    carpeta = "A:\\SU\\MMD";
+                    ubicacion = Directory.GetFiles(Path.GetDirectoryName("A:\\SU\\MMD\\IMAGES\\Agato.jpg"));
+                }
+            }
+               
+            r1 = rnd.Next(0, ubicacion.Length);
+            r2 = rnd.Next(0, ubicacion.Length);
+            r3 = rnd.Next(0, ubicacion.Length);
+
+            pictureBox1.Image = Image.FromFile(ubicacion[r1]); //image box al azar}
+            pictureBox2.Image = Image.FromFile(ubicacion[r2]);
+            pictureBox3.Image = Image.FromFile(ubicacion[r3]);
+
+            textBox5.Text = Path.GetFileNameWithoutExtension(ubicacion[r1]);// tex box al azar
+            textBox4.Text = Path.GetFileNameWithoutExtension(ubicacion[r2]);
+            textBox3.Text = Path.GetFileNameWithoutExtension(ubicacion[r3]);
+            
+            textBox1.Text = carpeta + diago + textBox5.Text;
+            
+              
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            FullScreenImage(((PictureBox)sender).Image);
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            FullScreenImage(((PictureBox)sender).Image);
+        }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+            FullScreenImage(((PictureBox)sender).Image);
+        }
+        private void FullScreenImage(Image imageToShow)
+        {
+            Form fullScreenForm = new Form()
+            {
+                WindowState = FormWindowState.Maximized,
+                FormBorderStyle = FormBorderStyle.None,
+                BackgroundImage = imageToShow,
+                BackgroundImageLayout = ImageLayout.Zoom
+            };
+
+            fullScreenForm.Click += fullScreen_Click;
+
+            fullScreenForm.ShowDialog();
+        }            //metodo para hacer grande una imagen de un picture box
+
+        private void fullScreen_Click(object sender, EventArgs e)
+        {
+            ((Form)sender).Close();
+        }   // cierra el form
+        private void pictureBox1_DoubleClick(object sender, EventArgs e)  // cierra el form
+        {
+            FullScreenImage(((PictureBox)sender).Image);  //llama al metodo  fullscreem para mostrar la imagen clickead en toda la pantalla
+        }
+
+        private void copiar_dos_Click(object sender, EventArgs e)
+        {
+            archivo(textBox4.Text);
+        }
+
+        private void copiar_tres_Click(object sender, EventArgs e)
+        {
+            archivo(textBox3.Text);
+        }
+        // Para copiar:
+        // mycomputer.FileSystem.CopyDirectory / CopyFile(ruta 1 as string, ruta 2 as string);
+        //
+        // Para mover:
+        // mycomputer.FileSystem.MoveDirectory / MoveFile(ruta 1 as string, ruta 2 as string);
+    }
+}
+
+

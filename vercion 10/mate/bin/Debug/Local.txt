@@ -1,0 +1,8 @@
+C:\\Users\\Arteaga\\Documents\\MEGAsync\\otros\\
+C:\\Users\\Arteaga\\Documents\\MEGAsync\\otros\\IMAGENES DE LOS MODELS\\
+C:\\Users\\Arteaga\\Documents\\PF\\MMD\\
+C:\\Users\\Arteaga\\Documents\\PF\\MMD\\IMAGES\\
+C:\Users\Arteaga\Desktop\probar
+-----------RESERVADO------
+img_true
+Repetir_false

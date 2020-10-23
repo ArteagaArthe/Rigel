@@ -1,0 +1,139 @@
+C:\Users\Gepar\documents\visual studio 2013\Projects\c sahrp\c sahrp\bin\Debug\Copiar y mover.exe.config
+C:\Users\Gepar\Documents\visual studio 2013\Projects\Copiar y Mover\c sahrp\bin\Debug\Copiar y mover.exe.config
+A:\Revision para DL\ABO DEMON\Copiar y Mover\c sahrp\bin\Debug\Copiar y mover.exe.config
+A:\Revision para DL\ABO DEMON\Copiar y Mover\c sahrp\bin\Debug\Copiar y mover.exe
+A:\Revision para DL\ABO DEMON\Copiar y Mover\c sahrp\bin\Debug\Copiar y mover.pdb
+A:\Revision para DL\ABO DEMON\Copiar y Mover\c sahrp\obj\Debug\Copiar y mover.csprojResolveAssemblyReference.cache
+A:\Revision para DL\ABO DEMON\Copiar y Mover\c sahrp\obj\Debug\c_sahrp.Form1.resources
+A:\Revision para DL\ABO DEMON\Copiar y Mover\c sahrp\obj\Debug\Copiar_Mover.Properties.Resources.resources
+A:\Revision para DL\ABO DEMON\Copiar y Mover\c sahrp\obj\Debug\Copiar y mover.csproj.GenerateResource.Cache
+A:\Revision para DL\ABO DEMON\Copiar y Mover\c sahrp\obj\Debug\Copiar y mover.exe
+A:\Revision para DL\ABO DEMON\Copiar y Mover\c sahrp\obj\Debug\Copiar y mover.pdb
+A:\Revision para DL\ABO DEMON\mmd  buscar piezas\c sahrp\bin\Debug\Copiar y mover.exe.config
+A:\Revision para DL\ABO DEMON\mmd  buscar piezas\c sahrp\obj\Debug\Copiar y mover.exe
+A:\Revision para DL\ABO DEMON\mmd  buscar piezas\c sahrp\obj\Debug\Copiar y mover.pdb
+A:\Revision para DL\ABO DEMON\mmd  buscar piezas\c sahrp\bin\Debug\Copiar y mover.exe
+A:\Revision para DL\ABO DEMON\mmd  buscar piezas\c sahrp\bin\Debug\Copiar y mover.pdb
+A:\Revision para DL\ABO DEMON\mmd  buscar piezas\c sahrp\obj\Debug\c_sahrp.Form1.resources
+A:\Revision para DL\ABO DEMON\mmd  buscar piezas\c sahrp\obj\Debug\Copiar_Mover.Properties.Resources.resources
+A:\Revision para DL\ABO DEMON\mmd  buscar piezas\c sahrp\obj\Debug\Copiar y mover.csproj.GenerateResource.Cache
+A:\Revision para DL\ABO DEMON\mmd  buscar piezas\c sahrp\obj\Debug\c_sahrp.Form2.resources
+A:\Revision para DL\ABO DEMON\mmd  buscar piezas\c sahrp\obj\Debug\c_sahrp.Form3.resources
+A:\Revision para DL\ABO DEMON\mmd  buscar piezas\c sahrp\obj\Debug\Copiar y mover.csprojResolveAssemblyReference.cache
+A:\Revision para DL\ABO DEMON\mmd  buscar piezas\c sahrp\obj\Debug\c_sahrp.Form4.resources
+A:\Revision para DL\ABO DEMON\hshhs\mate\bin\Debug\Copiar y mover.exe.config
+A:\Revision para DL\ABO DEMON\hshhs\mate\obj\Debug\Copiar y mover.exe
+A:\Revision para DL\ABO DEMON\hshhs\mate\obj\Debug\Copiar y mover.pdb
+A:\Revision para DL\ABO DEMON\hshhs\mate\bin\Debug\Copiar y mover.exe
+A:\Revision para DL\ABO DEMON\hshhs\mate\bin\Debug\Copiar y mover.pdb
+A:\Revision para DL\ABO DEMON\hshhs\mate\obj\Debug\Copiar y mover.csprojResolveAssemblyReference.cache
+A:\Revision para DL\ABO DEMON\hshhs\mate\obj\Debug\c_sahrp.Form1.resources
+A:\Revision para DL\ABO DEMON\hshhs\mate\obj\Debug\c_sahrp.Form2.resources
+A:\Revision para DL\ABO DEMON\hshhs\mate\obj\Debug\c_sahrp.Form3.resources
+A:\Revision para DL\ABO DEMON\hshhs\mate\obj\Debug\c_sahrp.Form4.resources
+A:\Revision para DL\ABO DEMON\hshhs\mate\obj\Debug\Copiar_Mover.Properties.Resources.resources
+A:\Revision para DL\ABO DEMON\hshhs\mate\obj\Debug\Copiar y mover.csproj.GenerateResource.Cache
+A:\Revision para DL\ABO DEMON\hshhs\Copiar y mover MMD vercion 6\mate\bin\Debug\Copiar y mover.exe.config
+A:\Revision para DL\ABO DEMON\hshhs\Copiar y mover MMD vercion 6\mate\obj\Debug\Copiar y mover.exe
+A:\Revision para DL\ABO DEMON\hshhs\Copiar y mover MMD vercion 6\mate\obj\Debug\Copiar y mover.pdb
+A:\Revision para DL\ABO DEMON\hshhs\Copiar y mover MMD vercion 6\mate\bin\Debug\Copiar y mover.exe
+A:\Revision para DL\ABO DEMON\hshhs\Copiar y mover MMD vercion 6\mate\bin\Debug\Copiar y mover.pdb
+A:\Revision para DL\ABO DEMON\hshhs\Copiar y mover MMD vercion 6\mate\obj\Debug\Copiar y mover.csprojResolveAssemblyReference.cache
+A:\Revision para DL\ABO DEMON\hshhs\Copiar y mover MMD vercion 6\mate\obj\Debug\c_sahrp.Form1.resources
+A:\Revision para DL\ABO DEMON\hshhs\Copiar y mover MMD vercion 6\mate\obj\Debug\c_sahrp.Form2.resources
+A:\Revision para DL\ABO DEMON\hshhs\Copiar y mover MMD vercion 6\mate\obj\Debug\c_sahrp.Form3.resources
+A:\Revision para DL\ABO DEMON\hshhs\Copiar y mover MMD vercion 6\mate\obj\Debug\c_sahrp.Form4.resources
+A:\Revision para DL\ABO DEMON\hshhs\Copiar y mover MMD vercion 6\mate\obj\Debug\Copiar_Mover.Properties.Resources.resources
+A:\Revision para DL\ABO DEMON\hshhs\Copiar y mover MMD vercion 6\mate\obj\Debug\Copiar y mover.csproj.GenerateResource.Cache
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 6\mate\bin\Debug\Copiar y mover.exe.config
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 6\mate\obj\Debug\Copiar y mover.exe
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 6\mate\obj\Debug\Copiar y mover.pdb
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 6\mate\bin\Debug\Copiar y mover.exe
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 6\mate\bin\Debug\Copiar y mover.pdb
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 6\mate\obj\Debug\Copiar y mover.csprojResolveAssemblyReference.cache
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 6\mate\obj\Debug\c_sahrp.Form1.resources
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 6\mate\obj\Debug\c_sahrp.Form2.resources
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 6\mate\obj\Debug\c_sahrp.Form3.resources
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 6\mate\obj\Debug\c_sahrp.Form4.resources
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 6\mate\obj\Debug\Copiar_Mover.Properties.Resources.resources
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 6\mate\obj\Debug\Copiar y mover.csproj.GenerateResource.Cache
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 6\mate\obj\Debug\c_sahrp.Form5.resources
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 6\mate\obj\Debug\c_sahrp.imgMOV.resources
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 6\mate\obj\Debug\c_sahrp.EXTRAS.resources
+A:\potto\Copiar y mover MMD vercion 6\mate\bin\Debug\Copiar y mover.exe.config
+A:\potto\Copiar y mover MMD vercion 6\mate\obj\Debug\Copiar y mover.exe
+A:\potto\Copiar y mover MMD vercion 6\mate\obj\Debug\Copiar y mover.pdb
+A:\potto\Copiar y mover MMD vercion 6\mate\bin\Debug\Copiar y mover.exe
+A:\potto\Copiar y mover MMD vercion 6\mate\bin\Debug\Copiar y mover.pdb
+A:\potto\Copiar y mover MMD vercion 6\mate\obj\Debug\Copiar y mover.csprojResolveAssemblyReference.cache
+A:\potto\Copiar y mover MMD vercion 6\mate\obj\Debug\c_sahrp.EXTRAS.resources
+A:\potto\Copiar y mover MMD vercion 6\mate\obj\Debug\c_sahrp.Form1.resources
+A:\potto\Copiar y mover MMD vercion 6\mate\obj\Debug\c_sahrp.Form2.resources
+A:\potto\Copiar y mover MMD vercion 6\mate\obj\Debug\c_sahrp.Form3.resources
+A:\potto\Copiar y mover MMD vercion 6\mate\obj\Debug\c_sahrp.Form4.resources
+A:\potto\Copiar y mover MMD vercion 6\mate\obj\Debug\c_sahrp.Form5.resources
+A:\potto\Copiar y mover MMD vercion 6\mate\obj\Debug\c_sahrp.imgMOV.resources
+A:\potto\Copiar y mover MMD vercion 6\mate\obj\Debug\Copiar_Mover.Properties.Resources.resources
+A:\potto\Copiar y mover MMD vercion 6\mate\obj\Debug\Copiar y mover.csproj.GenerateResource.Cache
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8\mate\bin\Debug\Copiar y mover.exe.config
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8\mate\obj\Debug\Copiar y mover.exe
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8\mate\obj\Debug\Copiar y mover.pdb
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8\mate\bin\Debug\Copiar y mover.exe
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8\mate\bin\Debug\Copiar y mover.pdb
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8\mate\obj\Debug\Copiar y mover.csprojResolveAssemblyReference.cache
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8\mate\obj\Debug\c_sahrp.EXTRAS.resources
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8\mate\obj\Debug\c_sahrp.Form1.resources
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8\mate\obj\Debug\c_sahrp.Form2.resources
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8\mate\obj\Debug\c_sahrp.Form3.resources
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8\mate\obj\Debug\c_sahrp.Form4.resources
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8\mate\obj\Debug\c_sahrp.Form5.resources
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8\mate\obj\Debug\c_sahrp.imgMOV.resources
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8\mate\obj\Debug\Copiar_Mover.Properties.Resources.resources
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8\mate\obj\Debug\Copiar y mover.csproj.GenerateResource.Cache
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8 - copia\mate\bin\Debug\Copiar y mover.exe.config
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8 - copia\mate\obj\Debug\Copiar y mover.exe
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8 - copia\mate\obj\Debug\Copiar y mover.pdb
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8 - copia\mate\obj\Debug\Copiar y mover.csprojResolveAssemblyReference.cache
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8 - copia\mate\obj\Debug\c_sahrp.EXTRAS.resources
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8 - copia\mate\obj\Debug\c_sahrp.Form1.resources
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8 - copia\mate\obj\Debug\c_sahrp.Form2.resources
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8 - copia\mate\obj\Debug\c_sahrp.Form3.resources
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8 - copia\mate\obj\Debug\c_sahrp.Form4.resources
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8 - copia\mate\obj\Debug\c_sahrp.Form5.resources
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8 - copia\mate\obj\Debug\c_sahrp.imgMOV.resources
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8 - copia\mate\obj\Debug\Copiar_Mover.Properties.Resources.resources
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8 - copia\mate\obj\Debug\Copiar y mover.csproj.GenerateResource.Cache
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8 - copia\mate\bin\Debug\Copiar y mover.exe
+A:\SU\MMD\MI programa administrador DE MODELS MMD\Copiar y mover MMD vercion 8 - copia\mate\bin\Debug\Copiar y mover.pdb
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 9\mate\bin\Debug\Copiar y mover.exe.config
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 9\mate\obj\Debug\Copiar y mover.exe
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 9\mate\obj\Debug\Copiar y mover.pdb
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 9\mate\bin\Debug\Copiar y mover.exe
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 9\mate\bin\Debug\Copiar y mover.pdb
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 9\mate\obj\Debug\Copiar y mover.csprojResolveAssemblyReference.cache
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 9\mate\obj\Debug\c_sahrp.EXTRAS.resources
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 9\mate\obj\Debug\c_sahrp.Form1.resources
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 9\mate\obj\Debug\c_sahrp.Form2.resources
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 9\mate\obj\Debug\c_sahrp.Form3.resources
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 9\mate\obj\Debug\c_sahrp.Form4.resources
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 9\mate\obj\Debug\c_sahrp.Form5.resources
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 9\mate\obj\Debug\c_sahrp.imgMOV.resources
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 9\mate\obj\Debug\Copiar_Mover.Properties.Resources.resources
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 9\mate\obj\Debug\Copiar y mover.csproj.GenerateResource.Cache
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 9\mate\obj\Debug\c_sahrp.Visualizer.resources
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 10\mate\bin\Debug\Copiar y mover.exe.config
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 10\mate\obj\Debug\Copiar y mover.exe
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 10\mate\obj\Debug\Copiar y mover.pdb
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 10\mate\bin\Debug\Copiar y mover.exe
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 10\mate\bin\Debug\Copiar y mover.pdb
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 10\mate\obj\Debug\Copiar y mover.csprojResolveAssemblyReference.cache
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 10\mate\obj\Debug\c_sahrp.EXTRAS.resources
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 10\mate\obj\Debug\c_sahrp.Form1.resources
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 10\mate\obj\Debug\c_sahrp.Form2.resources
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 10\mate\obj\Debug\c_sahrp.Form3.resources
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 10\mate\obj\Debug\c_sahrp.Form4.resources
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 10\mate\obj\Debug\c_sahrp.Form5.resources
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 10\mate\obj\Debug\c_sahrp.imgMOV.resources
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 10\mate\obj\Debug\Copiar_Mover.Properties.Resources.resources
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 10\mate\obj\Debug\c_sahrp.Visualizer.resources
+C:\Users\Arteaga\Documents\PF\MMD\MI programa administrador DE MODELS MMD\vercion 10\mate\obj\Debug\Copiar y mover.csproj.GenerateResource.Cache
